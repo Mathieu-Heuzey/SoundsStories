@@ -1,0 +1,40 @@
+{
+  "page": [
+    {
+      "color": "beige",
+      "title": "ferme",
+      "sounds": [
+        {
+          "icon": "iconname",
+          "mp3": "mpthree"
+        },
+        {
+          "icon": "iconname",
+          "mp3": "mpthree"
+        },
+        {
+          "icon": "iconname",
+          "mp3": "mpthree"
+        }
+      ]
+    },
+    {
+      "color": "gris",
+      "title": "chateau",
+      "sounds": [
+        {
+          "icon": "iconname",
+          "mp3": "mpthree"
+        },
+        {
+          "icon": "iconname",
+          "mp3": "mpthree"
+        },
+        {
+          "icon": "iconname",
+          "mp3": "mpthree"
+        }
+      ]
+    }
+  ]
+}
