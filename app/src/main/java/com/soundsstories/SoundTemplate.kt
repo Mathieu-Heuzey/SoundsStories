@@ -14,4 +14,8 @@ class SoundPage(
 )
 
 @Keep
-class Sound(@SerializedName("icon") val icon: String, @SerializedName("mp3") val mp3: String)
+class Sound(
+    @SerializedName("icon") val icon: String,
+    @SerializedName("mp3") val mp3: String,
+    @SerializedName("title") val title: String
+)

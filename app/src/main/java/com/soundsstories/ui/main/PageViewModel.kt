@@ -5,15 +5,20 @@ import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.Transformations
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
+import com.soundsstories.Sound
+import com.soundsstories.SoundPage
+import com.soundsstories.SoundTemplate
 
 class PageViewModel : ViewModel() {
 
-    private val _index = MutableLiveData<Int>()
-    val text: LiveData<String> = Transformations.map(_index) {
-        "Hello world from section: $it"
-    }
+    private val _backgroundColor = MutableLiveData<String>()
+    val backgroundColor: LiveData<String> = _backgroundColor
 
-    fun setIndex(index: Int) {
-        _index.value = index
+    private val _soundlist = MutableLiveData<List<Sound>>()
+    val soundlist: LiveData<List<Sound>> = _soundlist
+
+    fun setTitle(title: SoundPage) {
+        _backgroundColor.value = title.color
+        _soundlist.value = title.sound
     }
 }
