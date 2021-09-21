@@ -1,38 +1,59 @@
 {
   "page": [
     {
-      "color": "beige",
+      "color": "#E9F13B",
       "title": "ferme",
       "sounds": [
         {
-          "icon": "iconname",
-          "mp3": "mpthree"
+          "icon": "ic_cow",
+          "mp3": "mpthree",
+          "title": "cow"
         },
         {
-          "icon": "iconname",
-          "mp3": "mpthree"
+          "icon": "ic_cow",
+          "mp3": "mpthree",
+          "title": "cow"
         },
         {
-          "icon": "iconname",
-          "mp3": "mpthree"
+          "icon": "ic_cow",
+          "mp3": "mpthree",
+          "title": "cow"
+        },
+        {
+          "icon": "ic_cow",
+          "mp3": "mpthree",
+          "title": "cow"
+        },
+        {
+          "icon": "ic_cow",
+          "mp3": "mpthree",
+          "title": "cow"
+        },
+        {
+          "icon": "ic_cow",
+          "mp3": "mpthree",
+          "title": "cow"
         }
       ]
     },
     {
-      "color": "gris",
+      "color": "#C7D6D8",
       "title": "chateau",
       "sounds": [
         {
-          "icon": "iconname",
-          "mp3": "mpthree"
+          "icon": "ic_cow",
+          "mp3": "mpthree",
+          "title": "cow"
         },
         {
-          "icon": "iconname",
-          "mp3": "mpthree"
+          "icon": "ic_cow",
+          "mp3": "mpthree",
+          "title": "cow"
         },
         {
-          "icon": "iconname",
-          "mp3": "mpthree"
+          "icon": "ic_cow",
+          "mp3": "mpthree",
+          "title": "cow"
         }
       ]
     }
