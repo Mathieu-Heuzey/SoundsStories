@@ -2,15 +2,13 @@ package com.soundsstories
 
 import android.content.res.Resources
 import android.os.Bundle
-import com.google.android.material.floatingactionbutton.FloatingActionButton
-import com.google.android.material.snackbar.Snackbar
-import com.google.android.material.tabs.TabLayout
-import androidx.viewpager.widget.ViewPager
-import androidx.appcompat.app.AppCompatActivity
 import androidx.annotation.RawRes
+import androidx.appcompat.app.AppCompatActivity
+import androidx.viewpager.widget.ViewPager
+import com.google.android.material.tabs.TabLayout
 import com.google.gson.Gson
-import com.soundsstories.ui.main.SectionsPagerAdapter
 import com.soundsstories.databinding.ActivityMainBinding
+import com.soundsstories.ui.main.SectionsPagerAdapter
 
 class MainActivity : AppCompatActivity() {
 

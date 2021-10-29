@@ -1,44 +1,44 @@
 {
   "page": [
     {
-      "color": "#E9F13B",
-      "title": "ferme",
+      "color": "#CD6112",
+      "title": "Farm",
       "sounds": [
         {
-          "icon": "ic_cow",
-          "mp3": "mpthree",
+          "icon": "cow",
+          "mp3": "cow",
           "title": "cow"
         },
         {
-          "icon": "ic_cow",
-          "mp3": "mpthree",
-          "title": "cow"
+          "icon": "sheep",
+          "mp3": "sheep",
+          "title": "sheep"
         },
         {
-          "icon": "ic_cow",
-          "mp3": "mpthree",
-          "title": "cow"
+          "icon": "hen",
+          "mp3": "hen",
+          "title": "hen"
         },
         {
-          "icon": "ic_cow",
-          "mp3": "mpthree",
-          "title": "cow"
+          "icon": "rooster",
+          "mp3": "rooster",
+          "title": "rooster"
         },
         {
-          "icon": "ic_cow",
-          "mp3": "mpthree",
-          "title": "cow"
+          "icon": "horse",
+          "mp3": "horse",
+          "title": "horse"
         },
         {
-          "icon": "ic_cow",
-          "mp3": "mpthree",
-          "title": "cow"
+          "icon": "pig",
+          "mp3": "pig",
+          "title": "pig"
         }
       ]
     },
     {
-      "color": "#C7D6D8",
-      "title": "chateau",
+      "color": "#2AA73D",
+      "title": "Jungle",
       "sounds": [
         {
           "icon": "ic_cow",
